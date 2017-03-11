@@ -22,6 +22,6 @@
     "knox-mpu": "git://github.com/timisbusy/knox-mpu.git",
     "loglevel": "~0.2.0",
     "mongo-uri": "~0.1.2",
-    "mongodb": "^1.2.14"
+    "mongodb": "^2.2.24"
   }
 }
